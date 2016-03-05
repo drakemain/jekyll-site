@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Drake E. Main
+email: demain1990@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My name is Drake. I enjoy learning about a wide variety of
+  computer science topics and building software applications.
+  Feel free to drop a line via email or twitter. 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://drakemain.com" # the base hostname & protocol for your site
+twitter_username: drake_main
+github_username:  drakemain
+
+# Build settings
+markdown: kramdown
